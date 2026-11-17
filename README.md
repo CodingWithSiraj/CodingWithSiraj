@@ -27,16 +27,7 @@ I'm a Computer Science undergraduate passionate about software engineering, prob
 **Tools**
 - Git, GitHub, VS Code
 
-### 🚀 Featured Projects
 
-**1. Zerodha Clone**
-- Full-stack trading application.
-- Built using React, Node.js, Express and MongoDB.
-- [View Repository](https://github.com/CodingWithSiraj/zerodha-clone)
-
-**2. Plant Disease Detection**
-- Working on a plant disease classification and severity estimation project.
-- Exploring deep learning approaches.
 
 ### 📚 Currently Learning
 - Data Structures & Algorithms
