@@ -36,10 +36,9 @@ I'm a Computer Science undergraduate passionate about software engineering, prob
 - Software Engineering Fundamentals
 
 ### 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodingWithSiraj&show_icons=true&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodingWithSiraj&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithSiraj&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithSiraj&layout=compact&theme=default)
 
 ### 🤝 Connect With Me
 
